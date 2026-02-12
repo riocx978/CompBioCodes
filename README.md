@@ -34,10 +34,8 @@ Requires R ≥ 4.0 and packages like tidyverse, glmnet, MendelianRandomization. 
 install.packages(c("tidyverse", "glmnet", "MendelianRandomization"))
 ```
 Python scripts:
-Requires Python ≥ 3.x and relevant libraries (numpy, pandas, scikit-learn, matplotlib). Install dependencies:
-```r
-pip install -r requirements.txt
-```
+Requires Python ≥ 3.x and relevant libraries (numpy, pandas, scikit-learn, matplotlib). Install dependencies
+
 ## Highlights
 
 - Work spans **data preprocessing, modeling, and visualization**.  
